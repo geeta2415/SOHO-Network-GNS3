@@ -4,9 +4,6 @@ ERP: 30558
 Course: Computer Communication Networks (CSE248)
 Semester: Spring 2026
 
-DRIVE LINK:
-https://drive.google.com/drive/folders/1V7046m5CLCqtdFQGHHY0XTL459gGlweL
-
 HOW TO OPEN THE PROJECT:
 
 Install GNS3 version 2.2.x or later on Ubuntu 22.04
